@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>prod</name>
+   <name>dev</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://publicare.ch/de'</initValue>
+      <initValue>'http://publicareteste6avjzgc3t.devcloud.acquia-sites.com/'</initValue>
       <name>Url</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

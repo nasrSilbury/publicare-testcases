@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://publicaretest2qpck2mqd5.devcloud.acquia-sites.com/de'</initValue>
+      <initValue>'http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/'</initValue>
       <name>Url</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

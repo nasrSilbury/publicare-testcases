@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+header_footer_test_suite,Chrome 73.0.3683.86,header and footer test cases,2019-03-29 17:44:02,2019-03-29 17:44:32,30.333s,FAILED
+,,,,,,
+Test Cases/header,Chrome 73.0.3683.86,test case to validate header menu,2019-03-29 17:44:02,2019-03-29 17:44:18,16.376s,FAILED
+"openBrowser("""")",Chrome 73.0.3683.86,,2019-03-29 17:44:02,2019-03-29 17:44:06,3.980s,PASSED
+navigateToUrl(Url),Chrome 73.0.3683.86,,2019-03-29 17:44:06,2019-03-29 17:44:18,11.281s,PASSED
+"click(findTestObject(""Page_HOME  Publicare/a_ber Publicare""))",Chrome 73.0.3683.86,,2019-03-29 17:44:18,2019-03-29 17:44:18,0.757s,FAILED
+,,,,,,
+Test Cases/footer,Chrome 73.0.3683.86,test cases for footer page,2019-03-29 17:44:18,2019-03-29 17:44:31,12.789s,FAILED
+"openBrowser("""")",Chrome 73.0.3683.86,,2019-03-29 17:44:19,2019-03-29 17:44:22,2.974s,PASSED
+navigateToUrl(Url),Chrome 73.0.3683.86,,2019-03-29 17:44:22,2019-03-29 17:44:30,8.702s,PASSED
+"click(findTestObject(""Object Repository/footer/Page_HOME  Publicare/a_Kontakt (2)""))",Chrome 73.0.3683.86,,2019-03-29 17:44:30,2019-03-29 17:44:30,0.104s,PASSED
+"click(findTestObject(""Object Repository/footer/Page_HOME  Publicare/div_Wir beraten Sie kompetent  kostenlos._contact-option__circle (6)""))",Chrome 73.0.3683.86,,2019-03-29 17:44:30,2019-03-29 17:44:30,0.099s,PASSED
+"click(findTestObject(""Object Repository/footer/Page_HOME  Publicare/div_Anrufen_contact-option__circle""))",Chrome 73.0.3683.86,,2019-03-29 17:44:30,2019-03-29 17:44:31,0.093s,PASSED
+"click(findTestObject(""Object Repository/footer/Page_HOME  Publicare/img_schreiben_contact-option__icon""))",Chrome 73.0.3683.86,,2019-03-29 17:44:31,2019-03-29 17:44:31,0.604s,FAILED
