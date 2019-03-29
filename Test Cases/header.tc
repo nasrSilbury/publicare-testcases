@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case to validate header menu</description>
+   <name>header</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0e21176-a8ab-459d-a5ff-6dc7e31da63e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test cases for footer page</description>
+   <name>footer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c87288a5-b6d0-4aa2-b403-11e273119aaa</testCaseGuid>
+</TestCaseEntity>
