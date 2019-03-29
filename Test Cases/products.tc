@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a navigation for publicare products</description>
+   <name>products</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0bcb27a7-08e8-4a6c-9d59-d1925cb0ef85</testCaseGuid>
+</TestCaseEntity>
