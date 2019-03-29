@@ -15,7 +15,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://publicare.ch/de')
+WebUI.navigateToUrl(GlobalVariable.Url)
 
 WebUI.click(findTestObject('Object Repository/footer/Page_HOME  Publicare/a_Kontakt (2)'))
 
@@ -34,3 +34,4 @@ WebUI.click(findTestObject('Object Repository/footer/Page_HOME  Publicare/h5_ber
 WebUI.click(findTestObject('Object Repository/footer/Page_HOME  Publicare/h5_Publicare Stories'))
 
 WebUI.closeBrowser()
+

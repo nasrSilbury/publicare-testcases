@@ -15,7 +15,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://publicare.ch/de')
+WebUI.navigateToUrl(GlobalVariable.Url)
 
 WebUI.setText(findTestObject('Object Repository/search/Page_HOME  Publicare/input_Anmelden_search_api_fulltext'), 'medi')
 
