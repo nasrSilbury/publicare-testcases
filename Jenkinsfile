@@ -11,5 +11,10 @@ pipeline {
                 sh 'katalon-execute.sh -browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Publicare-TestSuite"'
             }
         }
-    }    
+    }
+    post {
+        always {
+             
+        }
+    }
 }
