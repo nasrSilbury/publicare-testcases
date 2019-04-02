@@ -15,14 +15,14 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://publicare.ch/de')
+WebUI.navigateToUrl(GlobalVariable.Url)
 
-WebUI.click(findTestObject('Page_HOME  Publicare/span_Anmelden'))
+WebUI.click(findTestObject('Object Repository/login/Page_HOME  Publicare/a_Anmelden'))
 
-WebUI.setText(findTestObject('Object Repository/login/Page_Portal log in  Publicare/input_E-Mail_email (1)'), 'info@spitex-rechteslimmattal._x')
+WebUI.sendKeys(findTestObject('Object Repository/login/Page_Portal log in  Publicare/input_E-Mail_email'), GlobalVariable.email)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/login/Page_Portal log in  Publicare/input_Passwort_password (1)'), 
-    'eNBatQnucOQ=')
+WebUI.setEncryptedText(findTestObject('Object Repository/login/Page_Portal log in  Publicare/input_Passwort_password'), 
+    GlobalVariable.password)
 
 WebUI.click(findTestObject('Object Repository/login/Page_Portal log in  Publicare/input_Passwort vergessen_button button--primary button--wider'))
 

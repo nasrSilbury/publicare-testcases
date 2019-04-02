@@ -6,6 +6,16 @@ pipeline {
         }
     }
     stages {
+		stage('Git-Checkout') {
+            steps {
+                echo 'Checking out from Git Repository !!';
+            }
+        }
+		stage('Build') {
+            steps {
+                echo 'Building the checkout project !!';
+            }
+        }
 		stage('Compile') {
             steps {
                 echo 'Compiled Succesfully !!';
@@ -23,7 +33,7 @@ pipeline {
         }
 		stage('Test') {
             steps {
-                sh 'katalon-execute.sh -browserType="Chrome" -retry=0 -statusDelay=15 -testSuiteCollectionPath="Test Suites/Publicare_All_TestCases_Collection"';
+                sh 'katalon-execute.sh -browserType="Chrome" -retry=0 -statusDelay=15  -testSuitePath="Test Suites/menu_test_suite"';
             }
         }
 		stage('Deploy') {

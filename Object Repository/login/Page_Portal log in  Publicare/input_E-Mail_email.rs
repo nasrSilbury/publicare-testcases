@@ -3,7 +3,7 @@
    <description></description>
    <name>input_E-Mail_email</name>
    <tag></tag>
-   <elementGuidId>cace1cd1-1bbd-4de6-85a5-9ae0973a55e2</elementGuidId>
+   <elementGuidId>bf6cb4c9-fd68-4821-9d91-31740e42c2c9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -52,7 +52,7 @@
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>info@spitex-rechteslimmattal._x</value>
+      <value>i</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

@@ -9,4 +9,14 @@
       <initValue>'http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/'</initValue>
       <name>Url</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'info@spitex-rechteslimmattal._x'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'asdf'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -2,8 +2,8 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2019-03-29T17:44:02</date>
-  <millis>1553861642185</millis>
+  <date>2019-04-02T13:01:02</date>
+  <millis>1554190262483</millis>
   <sequence>0</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -16,8 +16,8 @@
   <property name="id">Test Suites/header_footer_test_suite</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:02</date>
-  <millis>1553861642211</millis>
+  <date>2019-04-02T13:01:02</date>
+  <millis>1554190262513</millis>
   <sequence>1</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -28,8 +28,8 @@
   <property name="hostName">SilburyUser - DESKTOP-1NQG59P</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:02</date>
-  <millis>1553861642214</millis>
+  <date>2019-04-02T13:01:02</date>
+  <millis>1554190262514</millis>
   <sequence>2</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -40,8 +40,8 @@
   <property name="os">Windows 10 64bit</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:02</date>
-  <millis>1553861642214</millis>
+  <date>2019-04-02T13:01:02</date>
+  <millis>1554190262515</millis>
   <sequence>3</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -52,8 +52,8 @@
   <property name="hostAddress">169.254.43.166</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:02</date>
-  <millis>1553861642216</millis>
+  <date>2019-04-02T13:01:02</date>
+  <millis>1554190262517</millis>
   <sequence>4</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -64,8 +64,8 @@
   <property name="katalonVersion">6.0.5.10</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:02</date>
-  <millis>1553861642482</millis>
+  <date>2019-04-02T13:01:02</date>
+  <millis>1554190262751</millis>
   <sequence>5</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -80,8 +80,8 @@
   <property name="isOptional">false</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:02</date>
-  <millis>1553861642834</millis>
+  <date>2019-04-02T13:01:03</date>
+  <millis>1554190263112</millis>
   <sequence>7</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -93,8 +93,8 @@
   <property name="stepIndex">1</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:03</date>
-  <millis>1553861643137</millis>
+  <date>2019-04-02T13:01:03</date>
+  <millis>1554190263375</millis>
   <sequence>9</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -104,8 +104,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:03</date>
-  <millis>1553861643162</millis>
+  <date>2019-04-02T13:01:03</date>
+  <millis>1554190263405</millis>
   <sequence>10</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -115,20 +115,20 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:06</date>
-  <millis>1553861646778</millis>
+  <date>2019-04-02T13:01:06</date>
+  <millis>1554190266899</millis>
   <sequence>12</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>sessionId = f1a68f2ce7ea2a55d8af88d6bb06d804</message>
+  <message>sessionId = c1a9b74d7287f23626249171dcf8f8f8</message>
   <nestedLevel>1</nestedLevel>
-  <property name="sessionId">f1a68f2ce7ea2a55d8af88d6bb06d804</property>
+  <property name="sessionId">c1a9b74d7287f23626249171dcf8f8f8</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:06</date>
-  <millis>1553861646808</millis>
+  <date>2019-04-02T13:01:06</date>
+  <millis>1554190266929</millis>
   <sequence>13</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -139,8 +139,8 @@
   <property name="browser">Chrome 73.0.3683.86</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:06</date>
-  <millis>1553861646809</millis>
+  <date>2019-04-02T13:01:06</date>
+  <millis>1554190266929</millis>
   <sequence>14</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -151,8 +151,8 @@
   <property name="platform">Windows 10</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:06</date>
-  <millis>1553861646812</millis>
+  <date>2019-04-02T13:01:06</date>
+  <millis>1554190266932</millis>
   <sequence>15</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -163,8 +163,8 @@
   <property name="seleniumVersion">3.7.1</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:06</date>
-  <millis>1553861646813</millis>
+  <date>2019-04-02T13:01:06</date>
+  <millis>1554190266933</millis>
   <sequence>16</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -175,8 +175,8 @@
   <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:06</date>
-  <millis>1553861646814</millis>
+  <date>2019-04-02T13:01:06</date>
+  <millis>1554190266934</millis>
   <sequence>17</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -186,8 +186,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:06</date>
-  <millis>1553861646814</millis>
+  <date>2019-04-02T13:01:06</date>
+  <millis>1554190266935</millis>
   <sequence>18</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -197,8 +197,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:06</date>
-  <millis>1553861646815</millis>
+  <date>2019-04-02T13:01:06</date>
+  <millis>1554190266935</millis>
   <sequence>19</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -210,19 +210,19 @@
   <property name="stepIndex">2</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:18</date>
-  <millis>1553861658095</millis>
+  <date>2019-04-02T13:01:17</date>
+  <millis>1554190277520</millis>
   <sequence>22</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Navigate to &amp;apos;http://publicaretest2qpck2mqd5.devcloud.acquia-sites.com/de&amp;apos; successfully</message>
+  <message>Navigate to &amp;apos;http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/&amp;apos; successfully</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:18</date>
-  <millis>1553861658096</millis>
+  <date>2019-04-02T13:01:17</date>
+  <millis>1554190277521</millis>
   <sequence>23</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -232,8 +232,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:18</date>
-  <millis>1553861658097</millis>
+  <date>2019-04-02T13:01:17</date>
+  <millis>1554190277522</millis>
   <sequence>24</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -245,8 +245,8 @@
   <property name="stepIndex">3</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:18</date>
-  <millis>1553861658107</millis>
+  <date>2019-04-02T13:01:17</date>
+  <millis>1554190277533</millis>
   <sequence>26</sequence>
   <level>WARNING</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -256,8 +256,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:18</date>
-  <millis>1553861658127</millis>
+  <date>2019-04-02T13:01:17</date>
+  <millis>1554190277553</millis>
   <sequence>28</sequence>
   <level>WARNING</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -267,8 +267,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:18</date>
-  <millis>1553861658838</millis>
+  <date>2019-04-02T13:01:18</date>
+  <millis>1554190278219</millis>
   <sequence>30</sequence>
   <level>FAILED</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -276,18 +276,18 @@
   <thread>1</thread>
   <message>Unable to click on object</message>
   <nestedLevel>1</nestedLevel>
-  <property name="attachment">1553861658130.png</property>
+  <property name="attachment">1554190277556.png</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:18</date>
-  <millis>1553861658850</millis>
+  <date>2019-04-02T13:01:18</date>
+  <millis>1554190278224</millis>
   <sequence>32</sequence>
   <logger>com.kms.katalon.core.logging.XmlKeywordLogger</logger>
   <level>FAILED</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>click(findTestObject(\&amp;quot;Page_HOME  Publicare/a_ber Publicare\&amp;quot;)) FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to click on object\r\n\tat com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)\r\n\tat header.run(header:20)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:331)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:322)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:301)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:293)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:227)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1553861522474.run(TempTestSuite1553861522474.groovy:35)\r\n</message>
+  <message>click(findTestObject(\&amp;quot;Page_HOME  Publicare/a_ber Publicare\&amp;quot;)) FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to click on object\r\n\tat com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)\r\n\tat header.run(header:20)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:331)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:322)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:301)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:293)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:227)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1554190147698.run(TempTestSuite1554190147698.groovy:35)\r\n</message>
   <exception>
     <message>com.kms.katalon.core.exception.StepFailedException: Unable to click on object</message>
     <frame>
@@ -394,7 +394,7 @@
       <method>call</method>
     </frame>
     <frame>
-      <class>TempTestSuite1553861522474</class>
+      <class>TempTestSuite1554190147698</class>
       <method>run</method>
       <line>35</line>
     </frame>
@@ -402,8 +402,8 @@
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:18</date>
-  <millis>1553861658854</millis>
+  <date>2019-04-02T13:01:18</date>
+  <millis>1554190278226</millis>
   <sequence>33</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -413,15 +413,15 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:18</date>
-  <millis>1553861658855</millis>
+  <date>2019-04-02T13:01:18</date>
+  <millis>1554190278227</millis>
   <sequence>35</sequence>
   <logger>com.kms.katalon.core.logging.XmlKeywordLogger</logger>
   <level>FAILED</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/header FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to click on object\r\n\tat com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)\r\n\tat header.run(header:20)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:331)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:322)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:301)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:293)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:227)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1553861522474.run(TempTestSuite1553861522474.groovy:35)\r\n</message>
+  <message>Test Cases/header FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to click on object\r\n\tat com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)\r\n\tat header.run(header:20)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:331)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:322)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:301)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:293)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:227)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1554190147698.run(TempTestSuite1554190147698.groovy:35)\r\n</message>
   <exception>
     <message>com.kms.katalon.core.exception.StepFailedException: Unable to click on object</message>
     <frame>
@@ -528,7 +528,7 @@
       <method>call</method>
     </frame>
     <frame>
-      <class>TempTestSuite1553861522474</class>
+      <class>TempTestSuite1554190147698</class>
       <method>run</method>
       <line>35</line>
     </frame>
@@ -536,8 +536,8 @@
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:18</date>
-  <millis>1553861658858</millis>
+  <date>2019-04-02T13:01:18</date>
+  <millis>1554190278229</millis>
   <sequence>36</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -547,8 +547,8 @@
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:18</date>
-  <millis>1553861658864</millis>
+  <date>2019-04-02T13:01:18</date>
+  <millis>1554190278235</millis>
   <sequence>37</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -563,8 +563,8 @@
   <property name="isOptional">false</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:19</date>
-  <millis>1553861659071</millis>
+  <date>2019-04-02T13:01:18</date>
+  <millis>1554190278382</millis>
   <sequence>39</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -576,8 +576,8 @@
   <property name="stepIndex">1</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:19</date>
-  <millis>1553861659077</millis>
+  <date>2019-04-02T13:01:18</date>
+  <millis>1554190278389</millis>
   <sequence>41</sequence>
   <level>WARNING</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -587,8 +587,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:19</date>
-  <millis>1553861659807</millis>
+  <date>2019-04-02T13:01:19</date>
+  <millis>1554190279087</millis>
   <sequence>42</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -598,20 +598,20 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:22</date>
-  <millis>1553861662006</millis>
+  <date>2019-04-02T13:01:21</date>
+  <millis>1554190281384</millis>
   <sequence>44</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>sessionId = e207081ff30e96ab82e781e089842e51</message>
+  <message>sessionId = cd64321d5b978cb0e3f87f935484d180</message>
   <nestedLevel>1</nestedLevel>
-  <property name="sessionId">e207081ff30e96ab82e781e089842e51</property>
+  <property name="sessionId">cd64321d5b978cb0e3f87f935484d180</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:22</date>
-  <millis>1553861662042</millis>
+  <date>2019-04-02T13:01:21</date>
+  <millis>1554190281415</millis>
   <sequence>45</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -622,8 +622,8 @@
   <property name="browser">Chrome 73.0.3683.86</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:22</date>
-  <millis>1553861662043</millis>
+  <date>2019-04-02T13:01:21</date>
+  <millis>1554190281415</millis>
   <sequence>46</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -634,8 +634,8 @@
   <property name="platform">Windows 10</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:22</date>
-  <millis>1553861662043</millis>
+  <date>2019-04-02T13:01:21</date>
+  <millis>1554190281416</millis>
   <sequence>47</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -646,8 +646,8 @@
   <property name="seleniumVersion">3.7.1</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:22</date>
-  <millis>1553861662044</millis>
+  <date>2019-04-02T13:01:21</date>
+  <millis>1554190281417</millis>
   <sequence>48</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -658,8 +658,8 @@
   <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:22</date>
-  <millis>1553861662045</millis>
+  <date>2019-04-02T13:01:21</date>
+  <millis>1554190281417</millis>
   <sequence>49</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -669,8 +669,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:22</date>
-  <millis>1553861662045</millis>
+  <date>2019-04-02T13:01:21</date>
+  <millis>1554190281418</millis>
   <sequence>50</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -680,8 +680,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:22</date>
-  <millis>1553861662046</millis>
+  <date>2019-04-02T13:01:21</date>
+  <millis>1554190281418</millis>
   <sequence>51</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -693,19 +693,19 @@
   <property name="stepIndex">2</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:30</date>
-  <millis>1553861670747</millis>
+  <date>2019-04-02T13:03:26</date>
+  <millis>1554190406825</millis>
   <sequence>54</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Navigate to &amp;apos;http://publicaretest2qpck2mqd5.devcloud.acquia-sites.com/de&amp;apos; successfully</message>
+  <message>Navigate to &amp;apos;http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/&amp;apos; successfully</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:30</date>
-  <millis>1553861670748</millis>
+  <date>2019-04-02T13:03:26</date>
+  <millis>1554190406827</millis>
   <sequence>55</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -715,8 +715,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:30</date>
-  <millis>1553861670749</millis>
+  <date>2019-04-02T13:03:26</date>
+  <millis>1554190406828</millis>
   <sequence>56</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
@@ -728,20 +728,154 @@
   <property name="stepIndex">3</property>
 </record>
 <record>
-  <date>2019-03-29T17:44:30</date>
-  <millis>1553861670852</millis>
-  <sequence>63</sequence>
-  <level>PASSED</level>
+  <date>2019-04-02T13:03:26</date>
+  <millis>1554190406905</millis>
+  <sequence>61</sequence>
+  <level>WARNING</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/footer/Page_HOME  Publicare/a_Kontakt (2)&amp;apos; is clicked on</message>
+  <message>Cannot take screenshot</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:30</date>
-  <millis>1553861670853</millis>
+  <date>2019-04-02T13:03:26</date>
+  <millis>1554190406906</millis>
+  <sequence>62</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Unable to click on object &amp;apos;Object Repository/footer/Page_HOME  Publicare/a_Kontakt (2)&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-04-02T13:03:26</date>
+  <millis>1554190406907</millis>
   <sequence>64</sequence>
+  <logger>com.kms.katalon.core.logging.XmlKeywordLogger</logger>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>click(findTestObject(\&amp;quot;Object Repository/footer/Page_HOME  Publicare/a_Kontakt (2)\&amp;quot;)) FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to click on object &amp;apos;Object Repository/footer/Page_HOME  Publicare/a_Kontakt (2)&amp;apos;\r\n\tat com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)\r\n\tat footer.run(footer:20)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:331)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:322)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:301)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:293)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:227)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1554190147698.run(TempTestSuite1554190147698.groovy:35)\r\n</message>
+  <exception>
+    <message>com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/footer/Page_HOME  Publicare/a_Kontakt (2)'</message>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordMain</class>
+      <method>stepFailed</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>stepFailed</method>
+      <line>65</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>runKeyword</method>
+      <line>27</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.ClickKeyword</class>
+      <method>click</method>
+      <line>86</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.ClickKeyword</class>
+      <method>execute</method>
+      <line>67</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordExecutor</class>
+      <method>executeKeywordForPlatform</method>
+      <line>56</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords</class>
+      <method>click</method>
+      <line>616</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>footer</class>
+      <method>run</method>
+      <line>20</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>331</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>322</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>301</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>293</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>227</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>129</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>112</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>81</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>157</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>TempTestSuite1554190147698</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-04-02T13:03:26</date>
+  <millis>1554190406908</millis>
+  <sequence>65</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
@@ -750,112 +884,17 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:30</date>
-  <millis>1553861670853</millis>
-  <sequence>65</sequence>
-  <level>START</level>
-  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
-  <method>startKeyword</method>
-  <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/footer/Page_HOME  Publicare/div_Wir beraten Sie kompetent  kostenlos._contact-option__circle (6)\&amp;quot;))</message>
-  <nestedLevel>1</nestedLevel>
-  <property name="startLine">22</property>
-  <property name="stepIndex">4</property>
-</record>
-<record>
-  <date>2019-03-29T17:44:30</date>
-  <millis>1553861670951</millis>
-  <sequence>72</sequence>
-  <level>PASSED</level>
-  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
-  <method>logMessage</method>
-  <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/footer/Page_HOME  Publicare/div_Wir beraten Sie kompetent  kostenlos._contact-option__circle (6)&amp;apos; is clicked on</message>
-  <nestedLevel>1</nestedLevel>
-</record>
-<record>
-  <date>2019-03-29T17:44:30</date>
-  <millis>1553861670952</millis>
-  <sequence>73</sequence>
-  <level>END</level>
-  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
-  <method>endKeyword</method>
-  <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;Object Repository/footer/Page_HOME  Publicare/div_Wir beraten Sie kompetent  kostenlos._contact-option__circle (6)\&amp;quot;))</message>
-  <nestedLevel>1</nestedLevel>
-</record>
-<record>
-  <date>2019-03-29T17:44:30</date>
-  <millis>1553861670953</millis>
-  <sequence>74</sequence>
-  <level>START</level>
-  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
-  <method>startKeyword</method>
-  <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/footer/Page_HOME  Publicare/div_Anrufen_contact-option__circle\&amp;quot;))</message>
-  <nestedLevel>1</nestedLevel>
-  <property name="startLine">24</property>
-  <property name="stepIndex">5</property>
-</record>
-<record>
-  <date>2019-03-29T17:44:31</date>
-  <millis>1553861671046</millis>
-  <sequence>81</sequence>
-  <level>PASSED</level>
-  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
-  <method>logMessage</method>
-  <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/footer/Page_HOME  Publicare/div_Anrufen_contact-option__circle&amp;apos; is clicked on</message>
-  <nestedLevel>1</nestedLevel>
-</record>
-<record>
-  <date>2019-03-29T17:44:31</date>
-  <millis>1553861671046</millis>
-  <sequence>82</sequence>
-  <level>END</level>
-  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
-  <method>endKeyword</method>
-  <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;Object Repository/footer/Page_HOME  Publicare/div_Anrufen_contact-option__circle\&amp;quot;))</message>
-  <nestedLevel>1</nestedLevel>
-</record>
-<record>
-  <date>2019-03-29T17:44:31</date>
-  <millis>1553861671047</millis>
-  <sequence>83</sequence>
-  <level>START</level>
-  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
-  <method>startKeyword</method>
-  <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/footer/Page_HOME  Publicare/img_schreiben_contact-option__icon\&amp;quot;))</message>
-  <nestedLevel>1</nestedLevel>
-  <property name="startLine">26</property>
-  <property name="stepIndex">6</property>
-</record>
-<record>
-  <date>2019-03-29T17:44:31</date>
-  <millis>1553861671649</millis>
-  <sequence>90</sequence>
-  <level>FAILED</level>
-  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
-  <method>logMessage</method>
-  <thread>1</thread>
-  <message>Unable to click on object &amp;apos;Object Repository/footer/Page_HOME  Publicare/img_schreiben_contact-option__icon&amp;apos;</message>
-  <nestedLevel>1</nestedLevel>
-  <property name="attachment">1553861671247.png</property>
-</record>
-<record>
-  <date>2019-03-29T17:44:31</date>
-  <millis>1553861671650</millis>
-  <sequence>92</sequence>
+  <date>2019-04-02T13:03:26</date>
+  <millis>1554190406909</millis>
+  <sequence>67</sequence>
   <logger>com.kms.katalon.core.logging.XmlKeywordLogger</logger>
   <level>FAILED</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>click(findTestObject(\&amp;quot;Object Repository/footer/Page_HOME  Publicare/img_schreiben_contact-option__icon\&amp;quot;)) FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to click on object &amp;apos;Object Repository/footer/Page_HOME  Publicare/img_schreiben_contact-option__icon&amp;apos;\r\n\tat com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)\r\n\tat footer.run(footer:26)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:331)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:322)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:301)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:293)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:227)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1553861522474.run(TempTestSuite1553861522474.groovy:35)\r\n</message>
+  <message>Test Cases/footer FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to click on object &amp;apos;Object Repository/footer/Page_HOME  Publicare/a_Kontakt (2)&amp;apos;\r\n\tat com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)\r\n\tat footer.run(footer:20)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:331)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:322)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:301)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:293)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:227)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1554190147698.run(TempTestSuite1554190147698.groovy:35)\r\n</message>
   <exception>
-    <message>com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/footer/Page_HOME  Publicare/img_schreiben_contact-option__icon'</message>
+    <message>com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/footer/Page_HOME  Publicare/a_Kontakt (2)'</message>
     <frame>
       <class>com.kms.katalon.core.keyword.internal.KeywordMain</class>
       <method>stepFailed</method>
@@ -898,7 +937,7 @@
     <frame>
       <class>footer</class>
       <method>run</method>
-      <line>26</line>
+      <line>20</line>
     </frame>
     <frame>
       <class>com.kms.katalon.core.main.ScriptEngine</class>
@@ -960,7 +999,7 @@
       <method>call</method>
     </frame>
     <frame>
-      <class>TempTestSuite1553861522474</class>
+      <class>TempTestSuite1554190147698</class>
       <method>run</method>
       <line>35</line>
     </frame>
@@ -968,143 +1007,9 @@
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:31</date>
-  <millis>1553861671651</millis>
-  <sequence>93</sequence>
-  <level>END</level>
-  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
-  <method>endKeyword</method>
-  <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;Object Repository/footer/Page_HOME  Publicare/img_schreiben_contact-option__icon\&amp;quot;))</message>
-  <nestedLevel>1</nestedLevel>
-</record>
-<record>
-  <date>2019-03-29T17:44:31</date>
-  <millis>1553861671652</millis>
-  <sequence>95</sequence>
-  <logger>com.kms.katalon.core.logging.XmlKeywordLogger</logger>
-  <level>FAILED</level>
-  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
-  <method>logMessage</method>
-  <thread>1</thread>
-  <message>Test Cases/footer FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to click on object &amp;apos;Object Repository/footer/Page_HOME  Publicare/img_schreiben_contact-option__icon&amp;apos;\r\n\tat com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:48)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:56)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)\r\n\tat footer.run(footer:26)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:331)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:322)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:301)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:293)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:227)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1553861522474.run(TempTestSuite1553861522474.groovy:35)\r\n</message>
-  <exception>
-    <message>com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/footer/Page_HOME  Publicare/img_schreiben_contact-option__icon'</message>
-    <frame>
-      <class>com.kms.katalon.core.keyword.internal.KeywordMain</class>
-      <method>stepFailed</method>
-      <line>48</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
-      <method>stepFailed</method>
-      <line>65</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
-      <method>runKeyword</method>
-      <line>27</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.webui.keyword.builtin.ClickKeyword</class>
-      <method>click</method>
-      <line>86</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.webui.keyword.builtin.ClickKeyword</class>
-      <method>execute</method>
-      <line>67</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.keyword.internal.KeywordExecutor</class>
-      <method>executeKeywordForPlatform</method>
-      <line>56</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords</class>
-      <method>click</method>
-      <line>616</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1</class>
-      <method>call</method>
-    </frame>
-    <frame>
-      <class>footer</class>
-      <method>run</method>
-      <line>26</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.main.ScriptEngine</class>
-      <method>run</method>
-      <line>194</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.main.ScriptEngine</class>
-      <method>runScriptAsRawText</method>
-      <line>119</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
-      <method>runScript</method>
-      <line>331</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
-      <method>doExecute</method>
-      <line>322</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
-      <method>processExecutionPhase</method>
-      <line>301</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
-      <method>accessMainPhase</method>
-      <line>293</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
-      <method>execute</method>
-      <line>227</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
-      <method>accessTestCaseMainPhase</method>
-      <line>129</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
-      <method>accessTestSuiteMainPhase</method>
-      <line>112</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
-      <method>execute</method>
-      <line>81</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.main.TestCaseMain</class>
-      <method>startTestSuite</method>
-      <line>157</line>
-    </frame>
-    <frame>
-      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
-      <method>call</method>
-    </frame>
-    <frame>
-      <class>TempTestSuite1553861522474</class>
-      <method>run</method>
-      <line>35</line>
-    </frame>
-  </exception>
-  <nestedLevel>0</nestedLevel>
-</record>
-<record>
-  <date>2019-03-29T17:44:31</date>
-  <millis>1553861671653</millis>
-  <sequence>96</sequence>
+  <date>2019-04-02T13:03:26</date>
+  <millis>1554190406911</millis>
+  <sequence>68</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
@@ -1113,9 +1018,9 @@
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
-  <date>2019-03-29T17:44:32</date>
-  <millis>1553861672518</millis>
-  <sequence>97</sequence>
+  <date>2019-04-02T13:03:27</date>
+  <millis>1554190407692</millis>
+  <sequence>69</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endSuite</method>

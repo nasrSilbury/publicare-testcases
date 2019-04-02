@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="menu_test_suite" time="110" tests="5" failures="0" errors="0">
+   <testsuite name="menu_test_suite" tests="5" failures="0" errors="0" time="110" timestamp="2019-04-02 12:59:09" hostname="SilburyUser - DESKTOP-1NQG59P" id="Test Suites/menu_test_suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\nsyed\\workspace\\Katalon Studio\\publicare-testcases\\publicare-testcases\\Reports\\menu_test_suite\\20190402_125903"/>
+         <property name="logFiles" value="D:\\nsyed\\workspace\\Katalon Studio\\publicare-testcases\\publicare-testcases\\Reports\\menu_test_suite\\20190402_125903\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="SilburyUser - DESKTOP-1NQG59P"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.0.5.10"/>
+         <property name="browser" value="Chrome 73.0.3683.86"/>
+         <property name="hostAddress" value="169.254.43.166"/>
+         <property name="sessionId" value="ffee7d85f48cf2ee50408cfd8f799331"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/products" classname="Test Cases/products" status="PASSED">
+         <system-out><![CDATA[2019-04-02 12:59:10 - [TEST_CASE][PASSED] - Test Cases/products: Test Cases/products
+
+2019-04-02 12:59:10 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-02 12:59:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-04-02 12:59:10 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-04-02 12:59:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-02 12:59:14 - [TEST_STEP][PASSED] - navigateToUrl(Url): Navigate to 'http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/' successfully
+
+2019-04-02 12:59:23 - [MESSAGE][PASSED] - Navigate to 'http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/' successfully
+
+2019-04-02 12:59:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/products/Page_HOME  Publicare/a_Produkte")): Object: 'Object Repository/products/Page_HOME  Publicare/a_Produkte' is clicked on
+
+2019-04-02 12:59:24 - [MESSAGE][PASSED] - Object: 'Object Repository/products/Page_HOME  Publicare/a_Produkte' is clicked on
+
+2019-04-02 12:59:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/products/Page_Produkt  Publicare/a_Ergnzende Produkte")): Object: 'Object Repository/products/Page_Produkt  Publicare/a_Ergnzende Produkte' is clicked on
+
+2019-04-02 12:59:26 - [MESSAGE][PASSED] - Object: 'Object Repository/products/Page_Produkt  Publicare/a_Ergnzende Produkte' is clicked on
+
+2019-04-02 12:59:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/products/Page_Ergnzende Produkte  Publicare/a_Blutzuckermessungen")): Object: 'Object Repository/products/Page_Ergnzende Produkte  Publicare/a_Blutzuckermessungen' is clicked on
+
+2019-04-02 12:59:27 - [MESSAGE][PASSED] - Object: 'Object Repository/products/Page_Ergnzende Produkte  Publicare/a_Blutzuckermessungen' is clicked on
+
+2019-04-02 12:59:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/products/Page_Blutzuckermessungen  Publicare/a_Blutzuckermessungen")): Object: 'Object Repository/products/Page_Blutzuckermessungen  Publicare/a_Blutzuckermessungen' is clicked on
+
+2019-04-02 12:59:27 - [MESSAGE][PASSED] - Object: 'Object Repository/products/Page_Blutzuckermessungen  Publicare/a_Blutzuckermessungen' is clicked on
+
+2019-04-02 12:59:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/products/Page_Blutzuckermessungen  Publicare/a_Lanzetten und Nadeln")): Object: 'Object Repository/products/Page_Blutzuckermessungen  Publicare/a_Lanzetten und Nadeln' is clicked on
+
+2019-04-02 12:59:28 - [MESSAGE][PASSED] - Object: 'Object Repository/products/Page_Blutzuckermessungen  Publicare/a_Lanzetten und Nadeln' is clicked on
+
+2019-04-02 12:59:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/products/Page_Lanzetten und Nadeln  Publicare/a_Blutzuckermessungen")): Object: 'Object Repository/products/Page_Lanzetten und Nadeln  Publicare/a_Blutzuckermessungen' is clicked on
+
+2019-04-02 12:59:29 - [MESSAGE][PASSED] - Object: 'Object Repository/products/Page_Lanzetten und Nadeln  Publicare/a_Blutzuckermessungen' is clicked on
+
+2019-04-02 12:59:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/products/Page_Blutzuckermessungen  Publicare/a_Ergnzende Produkte")): Object: 'Object Repository/products/Page_Blutzuckermessungen  Publicare/a_Ergnzende Produkte' is clicked on
+
+2019-04-02 12:59:30 - [MESSAGE][PASSED] - Object: 'Object Repository/products/Page_Blutzuckermessungen  Publicare/a_Ergnzende Produkte' is clicked on
+
+2019-04-02 12:59:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/products/Page_Ergnzende Produkte  Publicare/a_Alle Produkte")): Object: 'Object Repository/products/Page_Ergnzende Produkte  Publicare/a_Alle Produkte' is clicked on
+
+2019-04-02 12:59:30 - [MESSAGE][PASSED] - Object: 'Object Repository/products/Page_Ergnzende Produkte  Publicare/a_Alle Produkte' is clicked on
+
+2019-04-02 12:59:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/products/Page_Produkt  Publicare/a_Produkte")): Object: 'Object Repository/products/Page_Produkt  Publicare/a_Produkte' is clicked on
+
+2019-04-02 12:59:31 - [MESSAGE][PASSED] - Object: 'Object Repository/products/Page_Produkt  Publicare/a_Produkte' is clicked on
+
+2019-04-02 12:59:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-04-02 12:59:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Services" classname="Test Cases/Services" status="PASSED">
+         <system-out><![CDATA[2019-04-02 12:59:32 - [TEST_CASE][PASSED] - Test Cases/Services: Test Cases/Services
+
+2019-04-02 12:59:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-02 12:59:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-04-02 12:59:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-02 12:59:34 - [TEST_STEP][PASSED] - navigateToUrl(Url): Navigate to 'http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/' successfully
+
+2019-04-02 12:59:43 - [MESSAGE][PASSED] - Navigate to 'http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/' successfully
+
+2019-04-02 12:59:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/services/Page_HOME  Publicare/a_Dienstleistungen")): Object: 'Object Repository/services/Page_HOME  Publicare/a_Dienstleistungen' is clicked on
+
+2019-04-02 12:59:47 - [MESSAGE][PASSED] - Object: 'Object Repository/services/Page_HOME  Publicare/a_Dienstleistungen' is clicked on
+
+2019-04-02 12:59:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/services/Page_Dienstleistungen  Publicare/a_Beratung")): Object: 'Object Repository/services/Page_Dienstleistungen  Publicare/a_Beratung' is clicked on
+
+2019-04-02 12:59:53 - [MESSAGE][PASSED] - Object: 'Object Repository/services/Page_Dienstleistungen  Publicare/a_Beratung' is clicked on
+
+2019-04-02 12:59:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/services/Page_Beratung  Publicare/a_Dienstleistungen")): Object: 'Object Repository/services/Page_Beratung  Publicare/a_Dienstleistungen' is clicked on
+
+2019-04-02 12:59:54 - [MESSAGE][PASSED] - Object: 'Object Repository/services/Page_Beratung  Publicare/a_Dienstleistungen' is clicked on
+
+2019-04-02 12:59:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/services/Page_Dienstleistungen  Publicare/a_Lieferant")): Object: 'Object Repository/services/Page_Dienstleistungen  Publicare/a_Lieferant' is clicked on
+
+2019-04-02 12:59:57 - [MESSAGE][PASSED] - Object: 'Object Repository/services/Page_Dienstleistungen  Publicare/a_Lieferant' is clicked on
+
+2019-04-02 12:59:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/services/Page_Lieferant  Publicare/a_Startseite")): Object: 'Object Repository/services/Page_Lieferant  Publicare/a_Startseite' is clicked on
+
+2019-04-02 12:59:58 - [MESSAGE][PASSED] - Object: 'Object Repository/services/Page_Lieferant  Publicare/a_Startseite' is clicked on
+
+2019-04-02 12:59:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-04-02 12:59:59 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/pc_acadamy" classname="Test Cases/pc_acadamy" status="PASSED">
+         <system-out><![CDATA[2019-04-02 12:59:59 - [TEST_CASE][PASSED] - Test Cases/pc_acadamy: Test Cases/pc_acadamy
+
+2019-04-02 12:59:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-02 12:59:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-04-02 13:00:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-02 13:00:01 - [TEST_STEP][PASSED] - navigateToUrl(Url): Navigate to 'http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/' successfully
+
+2019-04-02 13:00:13 - [MESSAGE][PASSED] - Navigate to 'http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/' successfully
+
+2019-04-02 13:00:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/academy/Page_HOME  Publicare/a_Publicare Academy")): Object: 'Object Repository/academy/Page_HOME  Publicare/a_Publicare Academy' is clicked on
+
+2019-04-02 13:00:14 - [MESSAGE][PASSED] - Object: 'Object Repository/academy/Page_HOME  Publicare/a_Publicare Academy' is clicked on
+
+2019-04-02 13:00:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/academy/Page_Publicare Academy  Publicare/input_Ihr Zugangscode_op")): Object: 'Object Repository/academy/Page_Publicare Academy  Publicare/input_Ihr Zugangscode_op' is clicked on
+
+2019-04-02 13:00:16 - [MESSAGE][PASSED] - Object: 'Object Repository/academy/Page_Publicare Academy  Publicare/input_Ihr Zugangscode_op' is clicked on
+
+2019-04-02 13:00:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-04-02 13:00:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/search" classname="Test Cases/search" status="PASSED">
+         <system-out><![CDATA[2019-04-02 13:00:17 - [TEST_CASE][PASSED] - Test Cases/search: Test Cases/search
+
+2019-04-02 13:00:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-02 13:00:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-04-02 13:00:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-02 13:00:20 - [TEST_STEP][PASSED] - navigateToUrl(Url): Navigate to 'http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/' successfully
+
+2019-04-02 13:00:31 - [MESSAGE][PASSED] - Navigate to 'http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/' successfully
+
+2019-04-02 13:00:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/search/Page_HOME  Publicare/input_Anmelden_search_api_fulltext"), "medi"): Text 'medi' is set on object 'Object Repository/search/Page_HOME  Publicare/input_Anmelden_search_api_fulltext'
+
+2019-04-02 13:00:31 - [MESSAGE][PASSED] - Text 'medi' is set on object 'Object Repository/search/Page_HOME  Publicare/input_Anmelden_search_api_fulltext'
+
+2019-04-02 13:00:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search/Page_HOME  Publicare/input_Anmelden_edit-submit-publicare-search")): Object: 'Object Repository/search/Page_HOME  Publicare/input_Anmelden_edit-submit-publicare-search' is clicked on
+
+2019-04-02 13:00:33 - [MESSAGE][PASSED] - Object: 'Object Repository/search/Page_HOME  Publicare/input_Anmelden_edit-submit-publicare-search' is clicked on
+
+2019-04-02 13:00:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search/Page_Publicare Suche  Publicare/div_Hausella Slip medi Plus Gr.4244")): Object: 'Object Repository/search/Page_Publicare Suche  Publicare/div_Hausella Slip medi Plus Gr.4244' is clicked on
+
+2019-04-02 13:00:34 - [MESSAGE][PASSED] - Object: 'Object Repository/search/Page_Publicare Suche  Publicare/div_Hausella Slip medi Plus Gr.4244' is clicked on
+
+2019-04-02 13:00:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search/Page_Product Information  Publicare/td_Nicht an Lager_table-cell")): Object: 'Object Repository/search/Page_Product Information  Publicare/td_Nicht an Lager_table-cell' is clicked on
+
+2019-04-02 13:00:36 - [MESSAGE][PASSED] - Object: 'Object Repository/search/Page_Product Information  Publicare/td_Nicht an Lager_table-cell' is clicked on
+
+2019-04-02 13:00:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search/Page_Product Information  Publicare/a_3M 1528-1")): Object: 'Object Repository/search/Page_Product Information  Publicare/a_3M 1528-1' is clicked on
+
+2019-04-02 13:00:37 - [MESSAGE][PASSED] - Object: 'Object Repository/search/Page_Product Information  Publicare/a_3M 1528-1' is clicked on
+
+2019-04-02 13:00:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/search/Page_Product Information  Publicare/input_Anmelden_search_api_fulltext"), "beutel"): Text 'beutel' is set on object 'Object Repository/search/Page_Product Information  Publicare/input_Anmelden_search_api_fulltext'
+
+2019-04-02 13:00:37 - [MESSAGE][PASSED] - Text 'beutel' is set on object 'Object Repository/search/Page_Product Information  Publicare/input_Anmelden_search_api_fulltext'
+
+2019-04-02 13:00:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search/Page_Product Information  Publicare/input_Anmelden_edit-submit-publicare-search")): Object: 'Object Repository/search/Page_Product Information  Publicare/input_Anmelden_edit-submit-publicare-search' is clicked on
+
+2019-04-02 13:00:44 - [MESSAGE][PASSED] - Object: 'Object Repository/search/Page_Product Information  Publicare/input_Anmelden_edit-submit-publicare-search' is clicked on
+
+2019-04-02 13:00:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search/Page_Publicare Suche  Publicare/h1_Ergebnis fr          beutel")): Object: 'Object Repository/search/Page_Publicare Suche  Publicare/h1_Ergebnis fr          beutel' is clicked on
+
+2019-04-02 13:00:44 - [MESSAGE][PASSED] - Object: 'Object Repository/search/Page_Publicare Suche  Publicare/h1_Ergebnis fr          beutel' is clicked on
+
+2019-04-02 13:00:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search/Page_Publicare Suche  Publicare/strong_705")): Object: 'Object Repository/search/Page_Publicare Suche  Publicare/strong_705' is clicked on
+
+2019-04-02 13:00:44 - [MESSAGE][PASSED] - Object: 'Object Repository/search/Page_Publicare Suche  Publicare/strong_705' is clicked on
+
+2019-04-02 13:00:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-04-02 13:00:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/login" classname="Test Cases/login" status="PASSED">
+         <system-out><![CDATA[2019-04-02 13:00:45 - [TEST_CASE][PASSED] - Test Cases/login: Test Cases/login
+
+2019-04-02 13:00:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-02 13:00:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-04-02 13:00:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-02 13:00:47 - [TEST_STEP][PASSED] - navigateToUrl(Url): Navigate to 'http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/' successfully
+
+2019-04-02 13:00:57 - [MESSAGE][PASSED] - Navigate to 'http://publicaretestdbfzg2sr9o.devcloud.acquia-sites.com/' successfully
+
+2019-04-02 13:00:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/login/Page_HOME  Publicare/a_Anmelden")): Object: 'Object Repository/login/Page_HOME  Publicare/a_Anmelden' is clicked on
+
+2019-04-02 13:00:58 - [MESSAGE][PASSED] - Object: 'Object Repository/login/Page_HOME  Publicare/a_Anmelden' is clicked on
+
+2019-04-02 13:00:58 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/login/Page_Portal log in  Publicare/input_E-Mail_email"), "info@spitex-rechteslimmattal._x"): Keys 'info@spitex-rechteslimmattal._x' sent to object: 'Object Repository/login/Page_Portal log in  Publicare/input_E-Mail_email'
+
+2019-04-02 13:00:59 - [MESSAGE][PASSED] - Keys 'info@spitex-rechteslimmattal._x' sent to object: 'Object Repository/login/Page_Portal log in  Publicare/input_E-Mail_email'
+
+2019-04-02 13:00:59 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/login/Page_Portal log in  Publicare/input_Passwort_password"), "eNBatQnucOQ="): Text ****** has been set on object 'Object Repository/login/Page_Portal log in  Publicare/input_Passwort_password'
+
+2019-04-02 13:00:59 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/login/Page_Portal log in  Publicare/input_Passwort_password'
+
+2019-04-02 13:00:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/login/Page_Portal log in  Publicare/input_Passwort vergessen_button button--primary button--wider")): Object: 'Object Repository/login/Page_Portal log in  Publicare/input_Passwort vergessen_button button--primary button--wider' is clicked on
+
+2019-04-02 13:00:59 - [MESSAGE][PASSED] - Object: 'Object Repository/login/Page_Portal log in  Publicare/input_Passwort vergessen_button button--primary button--wider' is clicked on
+
+2019-04-02 13:00:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-04-02 13:01:00 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-04-02 12:59:09 - [TEST_SUITE][PASSED] - menu_test_suite: Test Cases/login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

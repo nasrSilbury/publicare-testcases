@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Passwort vergessen_button button--primary button--wider</name>
    <tag></tag>
-   <elementGuidId>715001de-91d2-42a1-b87f-b33006a2b5eb</elementGuidId>
+   <elementGuidId>6f8bef69-bb6e-4c36-b864-3778db8d9bd4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
