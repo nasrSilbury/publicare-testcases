@@ -17,9 +17,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.Url)
 
-WebUI.maximizeWindow();
+WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/search/Page_HOME  Publicare/input_Anmelden_search_api_fulltext'), 'medi')
+WebUI.setText(findTestObject('Object Repository/search/Page_HOME  Publicare/input_Anmelden_search_api_fulltext'), GlobalVariable.searchText1)
 
 WebUI.click(findTestObject('Object Repository/search/Page_HOME  Publicare/input_Anmelden_edit-submit-publicare-search'))
 
@@ -30,7 +30,7 @@ WebUI.click(findTestObject('Object Repository/search/Page_Product Information  P
 WebUI.click(findTestObject('Object Repository/search/Page_Product Information  Publicare/a_3M 1528-1'))
 
 WebUI.setText(findTestObject('Object Repository/search/Page_Product Information  Publicare/input_Anmelden_search_api_fulltext'), 
-    'beutel')
+    GlobalVariable.searchText2)
 
 WebUI.click(findTestObject('Object Repository/search/Page_Product Information  Publicare/input_Anmelden_edit-submit-publicare-search'))
 
