@@ -3,7 +3,7 @@
    <description></description>
    <name>a_ber Publicare</name>
    <tag></tag>
-   <elementGuidId>6af95324-4947-42fa-8369-5f340d7d4480</elementGuidId>
+   <elementGuidId>dd184312-75b6-4aaf-8c6f-391403190d2b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

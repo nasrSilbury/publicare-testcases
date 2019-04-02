@@ -17,19 +17,30 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.Url)
 
-WebUI.maximizeWindow();
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Page_HOME  Publicare/a_ber Publicare'))
+WebUI.click(findTestObject('Object Repository/header/Page_HOME  Publicare/a_Akzeptieren'))
 
-WebUI.click(findTestObject('Page_ber Publicare  Publicare/a_Team'))
+WebUI.click(findTestObject('Object Repository/header/Page_HOME  Publicare/a_ber Publicare'))
 
-WebUI.click(findTestObject('Page_Team  Publicare/a_ber Publicare'))
+WebUI.click(findTestObject('Object Repository/header/Page_ber Publicare  Publicare/a_Team'))
 
-WebUI.click(findTestObject('Page_ber Publicare  Publicare/a_Leitbild'))
+WebUI.click(findTestObject('Object Repository/header/Page_Team  Publicare/a_ber Publicare'))
 
-WebUI.click(findTestObject('Object Repository/header/Page_Leitbild  Publicare/a_Karriere'))
+WebUI.click(findTestObject('Object Repository/header/Page_ber Publicare  Publicare/a_Karriere'))
 
-WebUI.click(findTestObject('Page_Karriere  Publicare/a_Kontakt'))
+WebUI.click(findTestObject('Object Repository/header/Page_Karriere  Publicare/a_ber Publicare'))
+
+WebUI.click(findTestObject('Object Repository/header/Page_ber Publicare  Publicare/a_Leitbild'))
+
+WebUI.click(findTestObject('Object Repository/header/Page_Leitbild  Publicare/a_ber Publicare'))
+
+WebUI.click(findTestObject('Object Repository/header/Page_ber Publicare  Publicare/a_Engagement'))
+
+WebUI.click(findTestObject('Object Repository/header/Page_Engagement  Publicare/a_ber Publicare'))
+
+WebUI.click(findTestObject('Object Repository/header/Page_ber Publicare  Publicare/a_Karriere'))
+
+WebUI.click(findTestObject('Object Repository/header/Page_Karriere  Publicare/a_Kontakt'))
 
 WebUI.closeBrowser()
-

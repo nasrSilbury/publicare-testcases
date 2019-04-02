@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Weitere Aktionen auflisten (1)</name>
+   <name>div_Publicare noch bis 17 Uhr geffnet</name>
    <tag></tag>
-   <elementGuidId>ea511d76-b133-412c-957b-2fdd30172d0d</elementGuidId>
+   <elementGuidId>3227e225-e94e-46b1-a427-8325ef3fc70d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[2]</value>
+         <value>//main[@id='panel']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,63 +17,75 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>class</name>
       <type>Main</type>
-      <value>button</value>
+      <value>top-notification</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Weitere Aktionen auflisten</value>
+      <value>
+
+
+
+
+
+
+            Publicare noch bis 17 Uhr geöffnet
+
+      
+
+
+</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;header&quot;)/div[@class=&quot;wrap&quot;]/nav[@class=&quot;nav nav--top hide-on-mobile&quot;]/div[@class=&quot;language_wrapper_js is-active&quot;]/div[@class=&quot;dropbutton-wrapper dropbutton-multiple&quot;]/div[@class=&quot;dropbutton-widget&quot;]/ul[@class=&quot;dropdown-language-item dropbutton&quot;]/li[@class=&quot;dropbutton-toggle&quot;]/button[1]</value>
+      <value>id(&quot;panel&quot;)/div[@class=&quot;top-notification&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <value>(//button[@type='button'])[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
-      <value>//header[@id='header']/div/nav/div/div/div/ul/li[2]/button</value>
+      <value>//main[@id='panel']/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='deutsch'])[2]/following::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='italiano'])[1]/following::div[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontakt'])[2]/following::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='français'])[1]/following::div[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='français'])[2]/preceding::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Über Publicare'])[2]/preceding::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karriere'])[2]/preceding::div[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
-      <value>//nav/div/div/div/ul/li[2]/button</value>
+      <value>//main/div</value>
    </webElementXpaths>
 </WebElementEntity>

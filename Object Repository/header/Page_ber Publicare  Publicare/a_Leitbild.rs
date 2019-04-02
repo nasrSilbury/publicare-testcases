@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Leitbild</name>
    <tag></tag>
-   <elementGuidId>8830167c-f256-4dee-9192-fd66131b2e43</elementGuidId>
+   <elementGuidId>fa8ecf9c-4a8e-4ffc-954a-14c9fbfe6a62</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

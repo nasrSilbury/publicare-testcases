@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Kontakt</name>
    <tag></tag>
-   <elementGuidId>65efb609-9b91-495b-994b-18055f382791</elementGuidId>
+   <elementGuidId>57d05dae-1b59-4030-a95f-79c3b47941ed</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

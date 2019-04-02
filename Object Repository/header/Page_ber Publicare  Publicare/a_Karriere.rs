@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Karriere</name>
    <tag></tag>
-   <elementGuidId>6a503ead-9183-4710-bdf4-89cf680167fa</elementGuidId>
+   <elementGuidId>fdb19918-dbed-4eca-bbd2-bc2628f11072</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
