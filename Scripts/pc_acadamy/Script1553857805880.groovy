@@ -17,6 +17,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.Url)
 
+WebUI.maximizeWindow();
+
 WebUI.click(findTestObject('Object Repository/academy/Page_HOME  Publicare/a_Publicare Academy'))
 
 WebUI.click(findTestObject('Object Repository/academy/Page_Publicare Academy  Publicare/input_Ihr Zugangscode_op'))

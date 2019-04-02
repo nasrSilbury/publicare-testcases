@@ -17,6 +17,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.Url)
 
+WebUI.maximizeWindow();
+
 WebUI.click(findTestObject('Object Repository/footer/Page_HOME  Publicare/a_Kontakt (2)'))
 
 WebUI.click(findTestObject('Object Repository/footer/Page_HOME  Publicare/div_Wir beraten Sie kompetent  kostenlos._contact-option__circle (6)'))

@@ -13,18 +13,27 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+'Open Browser'
 WebUI.openBrowser('')
 
+'Navigate to URL'
 WebUI.navigateToUrl(GlobalVariable.Url)
 
+'Maximize Window'
+WebUI.maximizeWindow()
+
+'Click button to open login dialog box'
 WebUI.click(findTestObject('Object Repository/login/Page_HOME  Publicare/a_Anmelden'))
 
+'Input email'
 WebUI.sendKeys(findTestObject('Object Repository/login/Page_Portal log in  Publicare/input_E-Mail_email'), GlobalVariable.email)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/login/Page_Portal log in  Publicare/input_Passwort_password'), 
-    GlobalVariable.password)
+'Input password'
+WebUI.sendKeys(findTestObject('Object Repository/login/Page_Portal log in  Publicare/input_Passwort_password'), GlobalVariable.password)
 
+'Click Login button'
 WebUI.click(findTestObject('Object Repository/login/Page_Portal log in  Publicare/input_Passwort vergessen_button button--primary button--wider'))
 
+'Close browser'
 WebUI.closeBrowser()
 

@@ -17,6 +17,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.Url)
 
+WebUI.maximizeWindow();
+
 WebUI.click(findTestObject('Object Repository/products/Page_HOME  Publicare/a_Produkte'))
 
 WebUI.click(findTestObject('Object Repository/products/Page_Produkt  Publicare/a_Ergnzende Produkte'))

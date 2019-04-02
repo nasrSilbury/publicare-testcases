@@ -17,6 +17,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.Url)
 
+WebUI.maximizeWindow();
+
 WebUI.setText(findTestObject('Object Repository/search/Page_HOME  Publicare/input_Anmelden_search_api_fulltext'), 'medi')
 
 WebUI.click(findTestObject('Object Repository/search/Page_HOME  Publicare/input_Anmelden_edit-submit-publicare-search'))
