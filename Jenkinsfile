@@ -33,7 +33,7 @@ pipeline {
         }
 		stage('Test') {
             steps {
-                sh 'katalon-execute.sh -browserType="Chrome" -retry=0 -statusDelay=15  -testSuitePath="Test Suites/menu_test_suite"';
+                sh 'katalon-execute.sh -browserType="Chrome" -retry=0 -statusDelay=15 -executionProfile="dev"  -testSuiteCollectionPath="Test Suites/Publicare_All_TestCases_Collection"';
             }
         }
 		stage('Deploy') {
