@@ -29,4 +29,9 @@
       <initValue>'beutel'</initValue>
       <name>searchText2</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'de'</initValue>
+      <name>lang</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>test case for publicare search</description>
-   <name>search</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>d036c8ee-dcfd-4764-a6f6-323cdb7da302</testCaseGuid>
-</TestCaseEntity>

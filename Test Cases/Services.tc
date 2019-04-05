@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>test cases for publicare services menu</description>
-   <name>Services</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>32009b9e-c0c2-40da-929d-08c388e5e2a5</testCaseGuid>
-</TestCaseEntity>

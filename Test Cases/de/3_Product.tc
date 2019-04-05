@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>de lang related product test case</description>
+   <name>3_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b9b795c-d7c3-4c00-b415-35f981f8b1dd</testCaseGuid>
+</TestCaseEntity>
