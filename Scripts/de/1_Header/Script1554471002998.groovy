@@ -63,3 +63,5 @@ WebUI.click(findTestObject('Object Repository/de/1_Header/Page_Leitbild  Publica
 
 WebUI.click(findTestObject('Object Repository/de/1_Header/Page_About Publicare  Publicare/a_Engagement'))
 
+WebUI.closeBrowser()
+

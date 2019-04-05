@@ -13,3 +13,36 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(GlobalVariable.Url+'/'+GlobalVariable.lang)
+
+WebUI.maximizeWindow();
+
+WebUI.click(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/a_Akzeptieren'))
+
+WebUI.click(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/a_Kontakt'))
+
+WebUI.click(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/publicare advise'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/phone clickable'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/email clickable'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/calendar clickable'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/footer contact'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/contact section'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/opening hrs'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/about publicare'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/publicare stories'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/newsletter section'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/register now'))
+
+WebUI.closeBrowser()
