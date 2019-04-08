@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='login-placeholder']/div/div[2]</value>
+         <value>//body/main[@id='panel']/div[@class='dialog-off-canvas-main-canvas']/div[@class='main-container container js-quickedit-main-content']/div[@class='row']/section[@class='col-sm-12']/div[@class='wrap wrap-login']/div[@id='login-placeholder']/div[@class='login-and-register']/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
