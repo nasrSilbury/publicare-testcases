@@ -13,3 +13,35 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(GlobalVariable.Url+'/'+GlobalVariable.lang)
+
+WebUI.maximizeWindow();
+
+WebUI.click(findTestObject('Object Repository/de/7_Services/Page_HOME  Publicare/accepted'))
+
+WebUI.click(findTestObject('Object Repository/de/7_Services/Page_HOME  Publicare/header menu'))
+
+WebUI.click(findTestObject('Object Repository/de/7_Services/Page_HOME  Publicare/services menu'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/7_Services/Page_services  Publicare/services page'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/7_Services/Page_services  Publicare/consultation'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/7_Services/Page_services  Publicare/supplier'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/7_Services/Page_services  Publicare/partner'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/7_Services/Page_services  Publicare/knowledge and training'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/7_Services/Page_services  Publicare/download center'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/7_Services/Page_services  Publicare/phone icon'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/7_Services/Page_services  Publicare/email icon'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/7_Services/Page_services  Publicare/calendar icon'))
+
+WebUI.closeBrowser()
+
