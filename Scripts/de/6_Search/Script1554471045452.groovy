@@ -13,3 +13,23 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl((GlobalVariable.Url + '/') + GlobalVariable.lang)
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/de/6_Search/Page_HOME  Publicare/a_Akzeptieren'))
+
+WebUI.setText(findTestObject('Object Repository/de/6_Search/Page_HOME  Publicare/input search text'), GlobalVariable.searchText2)
+
+WebUI.click(findTestObject('Object Repository/de/6_Search/Page_HOME  Publicare/search icon click'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/6_Search/Page_Publicare Product Search  Publicare/search navigation header'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/6_Search/Page_Publicare Product Search  Publicare/search results section'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/6_Search/Page_Publicare Product Search  Publicare/search result count'))
+
+WebUI.closeBrowser()
+
