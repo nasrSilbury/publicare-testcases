@@ -9,8 +9,12 @@
          <key>XPATH</key>
          <value>//div[@id='after-header']/nav/div[6]/a[2]/span</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'button--login__text' and (text() = 'Anmelden' or . = 'Anmelden')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -20,7 +24,7 @@
       <value>span</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
