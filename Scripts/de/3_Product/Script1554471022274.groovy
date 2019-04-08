@@ -35,11 +35,11 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/de/3_Product/Page
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/product details'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/phone icon'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/phone icon'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/email icon'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/email icon'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/calendar icon'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/calendar icon'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/publicare benefits'))
 

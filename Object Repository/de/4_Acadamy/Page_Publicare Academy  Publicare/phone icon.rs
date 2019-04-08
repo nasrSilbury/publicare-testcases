@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>calendar icon is clickable</name>
+   <name>phone icon</name>
    <tag></tag>
-   <elementGuidId>4d139e59-8355-4986-8129-9b658e3b1a9c</elementGuidId>
+   <elementGuidId>88a1dbcf-8561-4359-a927-4266b3019455</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='after-header']/div/a[3]/div/span</value>
+         <value>//div[@id='after-header']/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,56 +17,77 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>contact-bar__item</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>tel:+41 56 484 15 00</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Termin vereinbaren</value>
+      <value>
+      
+        Anrufen +41 56 484 15 00
+      
+      
+        
+      
+    </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;panel&quot;)/div[@class=&quot;dialog-off-canvas-main-canvas&quot;]/div[@id=&quot;after-header&quot;]/div[@class=&quot;contact-bar&quot;]/a[@class=&quot;contact-bar__item&quot;]/div[1]/span[1]</value>
+      <value>id(&quot;panel&quot;)/div[@class=&quot;dialog-off-canvas-main-canvas&quot;]/div[@id=&quot;after-header&quot;]/div[@class=&quot;contact-bar&quot;]/a[@class=&quot;contact-bar__item&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
-      <value>//div[@id='after-header']/div/a[3]/div/span</value>
+      <value>//div[@id='after-header']/div/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Mail schreiben'])[1]/following::span[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anmelden'])[3]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anrufen +41 56 484 15 00'])[1]/following::span[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warenkorb'])[3]/following::a[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produkte'])[3]/preceding::span[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Mail schreiben'])[1]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ergänzende Produkte'])[3]/preceding::span[1]</value>
+      <name>xpath:href</name>
+      <value>//a[contains(@href, 'tel:+41 56 484 15 00')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
-      <value>//a[3]/div/span</value>
+      <value>//main/div[2]/div/div/a</value>
    </webElementXpaths>
 </WebElementEntity>
