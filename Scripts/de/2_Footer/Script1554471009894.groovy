@@ -25,11 +25,11 @@ WebUI.click(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/a
 
 WebUI.click(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/publicare advise'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/phone clickable'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/phone clickable'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/email clickable'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/email clickable'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/calendar clickable'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/calendar clickable'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/footer contact'))
 

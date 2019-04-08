@@ -19,51 +19,33 @@ WebUI.navigateToUrl(GlobalVariable.Url+'/'+GlobalVariable.lang)
 
 WebUI.maximizeWindow();
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/de/3_Product/Page_HOME  Publicare/a_Akzeptieren'))
 
-WebUI.click(findTestObject('null'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/3_Product/Page_HOME  Publicare/verify page header'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/de/3_Product/Page_HOME  Publicare/click product menu'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/product label'))
 
-WebUI.click(findTestObject('null'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/a_Ergnzende Produkte'))
 
-WebUI.click(findTestObject('null'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/direct to label'))
 
-WebUI.click(findTestObject('null'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/direct element'))
 
-WebUI.click(findTestObject('null'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/product details'))
 
-WebUI.click(findTestObject('null'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/phone icon'))
 
-WebUI.click(findTestObject('null'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/email icon'))
 
-WebUI.click(findTestObject('null'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/calendar icon'))
 
-WebUI.click(findTestObject('null'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/publicare benefits'))
 
-WebUI.click(findTestObject('null'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/learn more link'))
 
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/de/3_Product/Page_Product  Publicare/signup button'))
 
 WebUI.closeBrowser()
 
