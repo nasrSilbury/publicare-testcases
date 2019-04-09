@@ -26,7 +26,7 @@ WebUI.click(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/a
 WebUI.scrollToPosition(9999999, 9999999)
 WebUI.delay(3)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/publicare advise'))
+//WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/publicare advise'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/phone clickable'))
 
