@@ -21,7 +21,9 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/a_Akzeptieren'))
 
-WebUI.click(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/a_Kontakt'))
+//WebUI.click(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/a_Kontakt'))
+'scroll to bottom of page'
+WebUI.scrollToPosition(9999999, 9999999)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/de/2_Footer/Page_HOME  Publicare/publicare advise'))
 
