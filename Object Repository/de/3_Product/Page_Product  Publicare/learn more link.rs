@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@class='link']</value>
+         <value>//a[contains(text(),'Mehr erfahren')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//a[@class = 'link' and (text() = 'Mehr erfahren' or . = 'Mehr erfahren')]</value>
+         <value>id(&quot;panel&quot;)/div[@class=&quot;dialog-off-canvas-main-canvas&quot;]/div[@id=&quot;after-header&quot;]/nav[@class=&quot;nav nav--side&quot;]/div[@class=&quot;advantage nav-side__item text-center&quot;]/a[@class=&quot;link&quot;][count(. | //a[@class = 'link' and (text() = 'Mehr erfahren' or . = 'Mehr erfahren')]) = count(//a[@class = 'link' and (text() = 'Mehr erfahren' or . = 'Mehr erfahren')])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -45,7 +45,7 @@
       <value>Mehr erfahren</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
