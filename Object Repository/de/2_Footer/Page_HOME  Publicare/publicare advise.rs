@@ -9,8 +9,12 @@
          <key>XPATH</key>
          <value>//div[@id='contact-box']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;contact-box&quot;)/div[@class=&quot;wrap&quot;]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -27,7 +31,7 @@
       <value>wrap</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -642,7 +646,7 @@ This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of S
               </value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
