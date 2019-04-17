@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>dev</name>
+   <name>dev-lang-fr</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
@@ -31,7 +31,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'de'</initValue>
+      <initValue>'fr'</initValue>
       <name>lang</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

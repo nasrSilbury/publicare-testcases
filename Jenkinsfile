@@ -6,34 +6,15 @@ pipeline {
         }
     }
     stages {
-		stage('Git-Checkout') {
+		
+		stage('TEST-LANG-DE') {
             steps {
-                echo 'Checking out from Git Repository !!';
+                sh 'katalon-execute.sh -browserType="Chrome (headless)" -retry=0 -statusDelay=15 -executionProfile="dev-lang-de"  -testSuitePath="Test Suites/TESTCASES_DE"';
             }
         }
-		stage('Build') {
+		stage('TEST-LANG-FR') {
             steps {
-                echo 'Building the checkout project !!';
-            }
-        }
-		stage('Compile') {
-            steps {
-                echo 'Compiled Succesfully !!';
-            }
-        }
-		stage('JUnit') {
-            steps {
-                echo 'Junit Passed Succesfully';
-            }
-        }
-		stage('Quality-Gate') {
-            steps {
-                echo 'SonarQube Quality Gate Passed Succesfully !!';
-            }
-        }
-		stage('Test') {
-            steps {
-                sh 'katalon-execute.sh -browserType="Chrome (headless)" -retry=0 -statusDelay=15 -executionProfile="dev"  -testSuitePath="Test Suites/TESTCASES_DE"';
+                sh 'katalon-execute.sh -browserType="Chrome (headless)" -retry=0 -statusDelay=15 -executionProfile="dev-lang-fr"  -testSuitePath="Test Suites/TESTCASES_FR"';
             }
         }
 		stage('Deploy') {
