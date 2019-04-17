@@ -7,12 +7,12 @@ pipeline {
     }
     stages {
 		
-		stage('TEST-LANG-DE') {
+		stage('DEV-LANG-DE') {
             steps {
                 sh 'katalon-execute.sh -browserType="Chrome (headless)" -retry=0 -statusDelay=15 -executionProfile="dev-lang-de"  -testSuitePath="Test Suites/TESTCASES_DE"';
             }
         }
-		stage('TEST-LANG-FR') {
+		stage('DEV-LANG-FR') {
             steps {
                 sh 'katalon-execute.sh -browserType="Chrome (headless)" -retry=0 -statusDelay=15 -executionProfile="dev-lang-fr"  -testSuitePath="Test Suites/TESTCASES_FR"';
             }
