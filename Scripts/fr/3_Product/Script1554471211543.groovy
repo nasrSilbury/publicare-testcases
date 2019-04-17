@@ -15,9 +15,9 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.Url+'/'+GlobalVariable.lang)
+WebUI.navigateToUrl((GlobalVariable.Url + '/') + GlobalVariable.lang)
 
-WebUI.maximizeWindow();
+WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/fr/3_Product/Page_HOME  Publicare/a_Akzeptieren'))
 
@@ -43,9 +43,9 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/fr/3_Product/Page_P
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/fr/3_Product/Page_Product  Publicare/publicare benefits'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/fr/3_Product/Page_Product  Publicare/learn more link'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/fr/3_Product/Page_Product  Publicare/learn more link'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/fr/3_Product/Page_Product  Publicare/signup button'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/fr/3_Product/Page_Product  Publicare/signup button'))
 
 WebUI.closeBrowser()
 

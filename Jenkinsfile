@@ -17,6 +17,11 @@ pipeline {
                 sh 'katalon-execute.sh -browserType="Chrome (headless)" -retry=0 -statusDelay=15 -executionProfile="dev-lang-fr"  -testSuitePath="Test Suites/TESTCASES_FR"';
             }
         }
+		stage('TEST-LANG-DE') {
+            steps {
+                sh 'katalon-execute.sh -browserType="Chrome (headless)" -retry=0 -statusDelay=15 -executionProfile="test-lang-de"  -testSuitePath="Test Suites/TESTCASES_DE"';
+            }
+        }
 		stage('Deploy') {
             steps {
                 echo 'Pass !';
