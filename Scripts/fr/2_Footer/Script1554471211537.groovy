@@ -15,15 +15,11 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.Url+'/'+GlobalVariable.lang)
+WebUI.navigateToUrl(GlobalVariable.Url + '/' + GlobalVariable.lang)
 
 WebUI.maximizeWindow();
 
 WebUI.click(findTestObject('Object Repository/fr/2_Footer/Page_HOME  Publicare/a_Akzeptieren'))
-
-WebUI.click(findTestObject('Object Repository/fr/2_Footer/Page_HOME  Publicare/a_Kontakt'))
-
-WebUI.click(findTestObject('Object Repository/fr/2_Footer/Page_HOME  Publicare/publicare advise'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/fr/2_Footer/Page_HOME  Publicare/phone clickable'))
 
