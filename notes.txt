@@ -10,3 +10,6 @@ osboxes@osboxes:/$ sudo chmod 777 /var/run/docker.sock
 osboxes@osboxes:/$ sudo usermod -a -G root jenkins
 osboxes@osboxes:/$ sudo service jenkins restart
 osboxes@osboxes:/$ docker ps
+
+https://github.com/gustavoapolinario/node-todo-frontend/blob/master/Dockerfile
+https://medium.com/@gustavo.guss/jenkins-building-docker-image-and-sending-to-registry-64b84ea45ee9
